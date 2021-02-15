@@ -1,0 +1,19 @@
+{
+  "name": "twilio-nodejs-demo",
+  "version": "1.0.0",
+  "description": "Sending SMS thorugh Twilio and Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "keywords": [
+    "nodejs",
+    "twilio"
+  ],
+  "author": "Prathamesh Mali",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twilio": "^3.56.0"
+  }
+}
